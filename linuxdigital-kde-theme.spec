@@ -1,4 +1,4 @@
-Name: kedora-kde-theme
+Name: linuxdigital-kde-theme
 Version: 1.0
 Release: 1%{?dist}
 Summary: kedora KDE global theme
